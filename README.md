@@ -1,4 +1,3 @@
-# Restaurant-Page
 # ​​ Restaurant Page
 
 A sleek and responsive JavaScript-powered restaurant website. This project features dynamic navigation and modular design, built using **Webpack**, **ES6 modules**, **HTML**, and **CSS**. It includes a homepage, menu section, about page, and contact information — all rendered dynamically without full page reloads.
